@@ -1,0 +1,48 @@
+.homePageHeader {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 2%;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-evenly;
+  width: 375px;
+  height: 430px;
+  background-color: white;
+  box-shadow: 4px 4px #c3c3c31a;
+  border-radius: 20px;
+  margin: 2%;
+}
+.customizedSubmitButton {
+  cursor: pointer;
+  background-color: #ed719b;
+  width: 120px !important;
+  padding: 15px;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px !important;
+}
+.inputField {
+  padding: 8px;
+  border-radius: 7px;
+  border: 1px solid #c3c3c3;
+  margin-left: 5px;
+  outline: none;
+  font-size: 16px;
+  height: 50px;
+}
+.label {
+  font-weight: bold;
+  font-size: 18px;
+}
+.contentContainer {
+  justify-content: center;
+  display: flex;
+}
+.textAreaField {
+  height: 220px;
+}

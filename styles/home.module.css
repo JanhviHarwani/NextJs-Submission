@@ -1,0 +1,18 @@
+.home-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.form-positioning{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.common-padding{
+    padding:5%;
+}
+.post-button{
+    margin-left:12%;
+}

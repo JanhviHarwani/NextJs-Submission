@@ -1,0 +1,14 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-evenly;
+  /* padding: 10%; */
+  width: 310px;
+  height: 350px;
+  background-color: white;
+  /* border: 1px solid black; */
+  box-shadow: 4px 4px #c3c3c31a;
+  border-radius: 20px;
+  margin: 2%;
+}

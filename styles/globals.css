@@ -1,0 +1,27 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #eddfd2;
+  font-family: "Shadows Into Light", cursive;
+  font-size: 17px;
+}
+hr {
+  width: 100%;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+#__next {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  /* height: 100vh; */
+  text-align: center;
+}

@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "title": "If debugging is the process of removing software bug",
+      "body": "A computer lets you make more mistakes faster than any invention in human history–with the possible exceptions of handguns and tequila. (Mitch Radcliffe) The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry. (Henry Petroski)",
+      "id": 1
+    },
+    {
+      "title": "Collaboratively administrate empowered markets via plug-and-play networks.",
+      "body": "Collaboratively administrate empowered markets via plug-and-play networks.\n\nDynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.",
+      "id": 3
+    },
+    {
+      "title": "Mashable is a world-renowned, entertainment, and multi-platform media channel",
+      "body": "Powered by its own proprietary technology, this tech blog is the go-to source for tech, digital culture, and entertainment content for its influential and dedicated global audience!\n\nIt is one of the most influential blogs on technology on the internet today!\n\nMashable provides information to those who wish to catch up on all most everything happening around the tech world including movies, travel, finance, and, of course, gadgets.",
+      "id": 4
+    },
+    {
+      "title": "CNET stays ahead of the curve by spreading its hands on all sorts of incredible tech products, and trends and offering unbiased reviews.",
+      "body": "CNET stays ahead of the curve by spreading its hands on all sorts of incredible tech products, and trends and offering unbiased reviews.\n\nIt offers trusty guides, instructional videos, and up-to-the-minute news on everything from technology to sports. Especially, when considering buying a new gadget, CNET should be your first stop to provide a genuine reviews, and pricing, making it one of the best technology blogs to check out.",
+      "id": 5
+    },
+    {
+      "title": "Another highly engaging tech blog operated by VOX Media publishing news, guidebooks, feature stories, product reviews, and podcasts is The Verge!",
+      "body": "It offers substantial coverage and no shortage of personalized perspectives. Accordingly, their gadget reviews help make or break the future of technology itself.\n\nMore than a tech publication, The Verge is arguably the most knowledge-equipped website on modern-day trends and products. This legendary technology blog seems to get its hands on literally every tech product, frequently before that product is even released or completed.",
+      "id": 6
+    }
+  ]
+}
